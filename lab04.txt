@@ -1,0 +1,6 @@
+name	:	Sravani
+phone	:	8790742059
+Product names	:	Sugar,Salt,Apple
+price	:	45,33,55
+quantity	:	1kg,500gms,4
+total	:	200
