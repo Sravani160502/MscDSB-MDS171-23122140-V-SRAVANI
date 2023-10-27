@@ -8,4 +8,9 @@ phone	:	8790742059
 Product names	:	rice,aloo
 price	:	45,55
 quantity	:	1kg,2kg
-total	:	200
+total	:	200name	:	sravani
+phone	:	8790742059
+Product names	:	maggi
+price	:	50
+quantity	:	2
+total	:	100

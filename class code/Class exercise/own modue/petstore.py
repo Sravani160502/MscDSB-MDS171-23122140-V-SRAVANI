@@ -21,4 +21,17 @@ for pet in pets.pets:
     print(pets.pets[pet])
     for item in pets.pets[pet]:
        print(item)
-    print(item['name'])   
+
+    
+
+ 
+
+
+
+
+
+
+
+
+
+
